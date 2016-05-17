@@ -1,5 +1,5 @@
 {
-  "name": "cgsmith/zf1-recaptcha-2",
+  "name": "websoft/zf1-recaptcha-2",
   "description": "A quick package to assist with using Google reCAPTCHA version 2 with ZF1",
   "keywords": [
     "zf1",
